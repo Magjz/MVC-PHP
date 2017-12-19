@@ -1,0 +1,65 @@
+head, body, p, h4{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+footer, h5{
+    font-family: 'Dancing Script', cursive;
+}
+
+h1{
+    font-family: 'Dancing Script', cursive;
+    font-style: bold;
+    font-size: 500%;
+}
+
+h2{
+    font-family: 'Dancing Script', cursive;
+    font-style: bold;
+    font-size: 300%;
+}
+
+h3{
+    font-family: 'Dancing Script', cursive;
+    font-size: 200%;
+}
+
+nav ul a:hover{
+    background-color: rgba(247, 87, 38, 0.733);
+}
+
+nav ul span{
+    color : rgb(255,243,224);
+}
+
+.margin-bot{
+    margin-bottom:50px;
+}
+form .margin_bot{
+    min-height: 500px;
+}
+.input-field{
+    height: 50px;
+}
+
+.title-medium{
+    font-size : 2rem;
+    font-weight : bold;
+}
+
+/* .suscribe-box{
+    border : 2px solid orange;
+    min-height : 250px;
+    text-align: center;
+    padding: 20px;
+    margin-bottom : 30px;
+} */
+
+.login-box{
+  
+    margin: auto;
+}
+
+.btn, .btn:hover, .btn-large:hover{
+    background-color: rgba(247, 87, 38, 0.733);
+    color: rgb(255,243,224);
+}
